@@ -1,0 +1,6 @@
+C:\Users\NHAT\RiderProjects\Lab4\Indexer Demo\bin\Debug\Indexer_Demo.exe
+C:\Users\NHAT\RiderProjects\Lab4\Indexer Demo\bin\Debug\Indexer_Demo.pdb
+C:\Users\NHAT\RiderProjects\Lab4\Indexer Demo\obj\Debug\Indexer Demo.csprojAssemblyReference.cache
+C:\Users\NHAT\RiderProjects\Lab4\Indexer Demo\obj\Debug\Indexer Demo.csproj.CoreCompileInputs.cache
+C:\Users\NHAT\RiderProjects\Lab4\Indexer Demo\obj\Debug\Indexer_Demo.exe
+C:\Users\NHAT\RiderProjects\Lab4\Indexer Demo\obj\Debug\Indexer_Demo.pdb
