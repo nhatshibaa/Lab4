@@ -8,7 +8,7 @@
 
         public override string ToString()
         {
-            return "${}";
+            return $"$Classname: {GetType().Name} | Name: {Name} | Email: {Email}";
         }
     }
 }

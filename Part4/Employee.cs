@@ -6,16 +6,10 @@ namespace Part4
     {
         public string Department { get; set; }
         public double Salary { get; set; }
-        public DateTime DateHired { get; set; }
+        public int DateHired { get; set; }
 
-        void CalculateBonus()
-        {
-            
-        }
+        public abstract void CalculateBonus();
 
-        void CalculateVacation()
-        {
-            
-        }
+        public abstract void CalculateVacation();
     }
 }
