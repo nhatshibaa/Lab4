@@ -1,4 +1,6 @@
-﻿namespace Part4
+﻿using System;
+
+namespace Part4
 {
     internal class Program
     {

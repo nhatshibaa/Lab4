@@ -1,6 +1,6 @@
 ﻿namespace Part4
 {
-    public abstract class Person
+    public class Person
     {
         public string Name { get; set; }
         public int Phone { get; set; }
@@ -8,7 +8,7 @@
 
         public override string ToString()
         {
-            return $"$Classname: {GetType().Name} | Name: {Name} | Email: {Email}";
+            return $"Classname: {GetType().Name} | Name: {Name} | Email: {Email}";
         }
     }
 }

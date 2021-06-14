@@ -8,7 +8,7 @@ namespace Part4
         public string Rank { get; set; }
         public override void CalculateBonus()
         {
-            double bonus = 1000 + 0.5 * Salary;
+            double bonus = 1000 + 0.05 * Salary;
             Console.WriteLine($"Total bonus for faculty: {bonus}");
         }
 
